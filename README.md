@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/joaovguimaraess/e2d56f74c121a0a7656fd31ad1b551e1/raw/b8ff9f5d6b7172aaf9d1d3afbb71da33a5fdf675/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/joaovguimaraess/3cd8715cfa11967af15e0bb1f218a2b5/raw/ab5dc99832833be891c8b9e0a488a888b7bf5890/githubcartao.svg"/>
 <h1 align="left">Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> bem vindo ao meu perfil!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovguimaraess&color=yellow" alt="Profile views" /> </p>
 
